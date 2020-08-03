@@ -30,7 +30,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm clean cache —force
+        npm cache clean --force
         npm i -g gitbook-cli
         npm i -g graceful-fs
         npm i
