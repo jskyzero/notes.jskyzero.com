@@ -5,6 +5,12 @@
     "readme": "README.md"
   },
   "plugins": [
-    "summary"
-  ]
+    "summary",
+    "theme-comscore"
+  ],
+  "pluginsConfig": {
+    "theme-comscore": {
+      "showLevel": true
+    }
+  }
 }

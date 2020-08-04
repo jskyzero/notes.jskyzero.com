@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "gitbook-plugin-mathjax": "^2.0.0",
-    "gitbook-plugin-summary": "^1.0.0"
+    "gitbook-plugin-summary": "^1.0.0",
+    "gitbook-plugin-theme-comscore": "0.0.3"
   },
   "devDependencies": {},
   "scripts": {
