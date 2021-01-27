@@ -6,7 +6,8 @@
   },
   "plugins": [
     "summary",
-    "theme-comscore"
+    "theme-comscore",
+    "-lunr", "-search", "search-pro"
   ],
   "pluginsConfig": {
     "theme-comscore": {
