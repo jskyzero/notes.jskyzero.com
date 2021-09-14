@@ -3,6 +3,9 @@ author: jskyzero
 description: 学习使人伟大。 / Learning Makes Person Great.
 ---
 
+本网站现已经废弃，内容已经迁移。
+
+
 # 通俗笔记 / Common Notes
 
 > 本系列文档将聚焦于记录一些跨学科间的通俗知识，一些更加通用的思维方式与道理。
@@ -12,6 +15,7 @@ description: 学习使人伟大。 / Learning Makes Person Great.
 所以可以看到，我这里有很多各种方式的文档、网站，能脱离传统的纸张，使用数据化化的方式自然是更加有利于记录这件事的。
 
 我并不是第一次接触到[GitBook](www.gitbook.com)这个工具，早些时候就看到过相关的文档网站使用过这个工具，于是也终于试着自己使用了一下，这便是这系列文档的来历。
+
 
 ## 工具比较
 
@@ -25,6 +29,7 @@ description: 学习使人伟大。 / Learning Makes Person Great.
 
 传统的富文本文档记录方式这里就不再赘述。
 
+
 ## 更新计划
 
 本仓库的更新计划并不激进，也没有确切的更新评率。
@@ -34,6 +39,7 @@ description: 学习使人伟大。 / Learning Makes Person Great.
 
 + 有新的内容，则有新的记录文章
 + 时间相对灵活，没有固定跟新计划
+
 
 ## 参考
 
